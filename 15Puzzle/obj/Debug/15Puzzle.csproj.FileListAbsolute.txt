@@ -1,0 +1,3 @@
+C:\Users\прпр\Downloads\15\15Puzzle\15Puzzle\bin\Debug\15.exe.config
+C:\Users\прпр\Downloads\15\15Puzzle\15Puzzle\obj\Debug\15.exe
+C:\Users\прпр\Downloads\15\15Puzzle\15Puzzle\obj\Debug\15.pdb

@@ -1,0 +1,12 @@
+c:\users\влад\documents\visual studio 2013\Projects\15\15\bin\Debug\15.exe.config
+c:\users\влад\documents\visual studio 2013\Projects\15\15\bin\Debug\15.exe
+c:\users\влад\documents\visual studio 2013\Projects\15\15\bin\Debug\15.pdb
+c:\users\влад\documents\visual studio 2013\Projects\15\15\obj\Debug\15.csprojResolveAssemblyReference.cache
+c:\users\влад\documents\visual studio 2013\Projects\15\15\obj\Debug\15.exe
+c:\users\влад\documents\visual studio 2013\Projects\15\15\obj\Debug\15.pdb
+C:\Users\прпр\Downloads\15\15\15\bin\Debug\15.exe.config
+C:\Users\прпр\Downloads\15\15\15\obj\Debug\15.exe
+C:\Users\прпр\Downloads\15\15\15\obj\Debug\15.pdb
+C:\Users\прпр\Downloads\15\15\15\bin\Debug\15.exe
+C:\Users\прпр\Downloads\15\15\15\bin\Debug\15.pdb
+C:\Users\прпр\Downloads\15\15\15\obj\Debug\15.csprojResolveAssemblyReference.cache
